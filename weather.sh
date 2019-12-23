@@ -1,7 +1,5 @@
 #!/bin/sh
 
-set -eux
-
 CITY=qingdao
 LANGUAGE="zh-CN"
 UNIT=m
